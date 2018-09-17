@@ -1,0 +1,27 @@
+[
+    {
+        "make": "Lamborghini",
+        "model": "Countach",
+        "price": 500000
+    },
+    
+    {
+        "make": "Tesla",
+        "model": "X",
+        "price": 60000
+    },
+    
+    {
+        "make": "Vauxhall",
+        "model": "Astra",
+        "price": "15000"
+    },
+        
+    {
+        "make": "Ford",
+        "model": "FocusE",
+        "price": "25000"
+    }
+    
+    
+]
